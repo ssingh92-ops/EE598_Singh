@@ -1,17 +1,5 @@
 /-
-HW_X1Project&_III_3 — EE598
-
-Instructions (from slide deck):
-- AI-Assisted Project Exploration Put chats prormpts and final project idea
-- into the file
-- Put solutions in HW_X1Project&_III_3.lean in the same directory as Basic.lean.
-- Restate each problem.
-- Textual answers should be written as comments.
-- Lean code should produce no errors (sorry is allowed for partial credit).
--/
-
-/-
-EE 598 — AI-Assisted Project Exploration
+AI-Assisted Project Exploration
 Author: Sukhman Singh
 
 This file documents exploratory prompt sessions conducted while selecting
