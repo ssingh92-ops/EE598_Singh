@@ -1,19 +1,3 @@
-/-
-HW_IV_1_2.lean
-Sukhman Singh
-EE598 — Homework IV.1 (Algebra) and IV.2 (Sets)
-
-This file follows the course style of rebuilding basic structures in a temporary
-namespace rather than using Mathlib's algebraic hierarchy directly. In this
-portion, we work on IV.1 Algebra, proving uniqueness of the identity element
-and uniqueness of inverses for our custom Group class.
-
-The notation and proof style follow the lecture slides: additive notation,
-typeclasses, and explicit tactic / calc proofs.
-
-IV.2 Sets is reserved for later in this same file.
--/
-
 import Mathlib
 
 namespace Temp
